@@ -1,0 +1,22 @@
+{
+  "name": "gitlab",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dm0896665/FallLab.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dm0896665/FallLab/issues"
+  },
+  "homepage": "https://github.com/dm0896665/FallLab#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
